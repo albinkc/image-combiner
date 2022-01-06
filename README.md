@@ -1,4 +1,4 @@
-# combiner
+# image-combiner
 Image combiner made by following the freecodecamp rust in replit tutorial
 
 # Usage
